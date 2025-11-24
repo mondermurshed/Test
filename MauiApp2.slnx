@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MauiApp2.Shared/MauiApp2.Shared.csproj" />
+  <Project Path="MauiApp2/MauiApp2.csproj" />
+</Solution>
